@@ -1,0 +1,4 @@
+comunity_token = 'vk1.a.-s4POEnZnlx7Ak4TvZq2Bi3m8pP6oP3fhRc1Bw3Qs8sr_bFxCYbPtApoDDjsb8ho60Qr0w8djflUUjsvb4sBPEjAm5D47ty4K9oR4j5uyaj71aN0OYYHPgPdaUlmcJQSTCczQyK42iMuzaSB-WhbACJfZfYySJB1RP2JUkzEQCruuKxFYjtYWtjWPECLGDhpEthJYBnbJ4l614Qn6E9xxw'
+acces_token = 'vk1.a.j2YzvyNxZfMM2ELC-j_5chPk3iZVFM8OCBgDP--b6V-scLCpPUN8a_LKfcA5v6XYlxqCrbrRCfz1vuTTvh8-vuJtpBJ7IGC7WwGt16bUOwKHcT-I4Wd3nfi_2uJrf3W3-7E-kOu045RErAjxhy31EsGM1rfbkcZBHUyYAr99zTM7Qdz5eoU2oWBzX36-mQYk'
+db_url_object = "postgresql+psycopg2://postgres:qwer3@localhost:5432/bot_users"
+id_user_main=802971278
